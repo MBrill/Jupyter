@@ -129,6 +129,3 @@ dmypy.json
 
 # images Verzeichnis mit erzeugten Bildern
 **/images/
-
-# Verzeichnis mit erzeugten HTML-Dokus (Jupyter/Doxygen/...)
-**/html/
