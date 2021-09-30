@@ -129,3 +129,6 @@ dmypy.json
 
 # images Verzeichnis mit erzeugten Bildern
 **/images/
+
+# Für den develop branch wird das Verzeichnis docs ignoriert
+/docs/
