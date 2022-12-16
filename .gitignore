@@ -57,6 +57,11 @@ coverage.xml
 *.mo
 *.pot
 
+# Quarto Stuff
+# Ignore auf HTML previews und renderings
+Quarto/**/*.html
+Quarto/**/*_files/
+
 # Django stuff:
 *.log
 local_settings.py
